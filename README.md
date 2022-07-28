@@ -6,7 +6,7 @@ Front End Software Developer
 
 Bootcamp graduate from @TheJump. Actively seeking a Junior Front-End Web/Javascript/React developer/Engineer role. I bring Front-End developer skills and a focus on delivering for customer experience and keen on learning from other experienced developers and team members.
 
-* 🌍  I'm based in London
+* 🌍  I'm based in London/Hertfordshire
 * 🖥️  See my portfolio at [My Porfolio website](http://louismulinge.com/)
 * ✉️  You can contact me at [louismulinge@gmail.com](mailto:louismulinge@gmail.com)
 * 🚀  I'm currently working on [SquareSpace clone](http://mysquarespacehomage.netlify.app/)
