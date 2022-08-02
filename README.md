@@ -10,7 +10,7 @@ Bootcamp graduate from @TheJump. Actively seeking a Junior Front-End Web/Javascr
 * 🖥️  See my portfolio at [My Porfolio website](http://louismulinge.com/)
 * ✉️  You can contact me at [louismulinge@gmail.com](mailto:louismulinge@gmail.com)
 * 🚀  I'm currently working on [SquareSpace clone](http://mysquarespacehomage.netlify.app/)
-* 🧠  I'm learning Flutter(on the side) and React/Redux in
+* 🧠  I'm learning Flutter(on the side) and React/Redux
 * 🤝  I'm open to collaborating on interesting/challenging projects and Leetcode problems!
 * ⚡  Slowly working on getting my deadlift to 200kg
 
