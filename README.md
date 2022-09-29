@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Software Developer
 ----------------------------
 
-Bootcamp graduate from @TheJump. Actively seeking a Junior Front-End Web/Javascript/React developer/Engineer role. I bring Front-End developer skills and a focus on delivering for customer experience and keen on learning from other experienced developers and team members.
+Bootcamp graduate from @TheJump. Actively seeking a Front-End Web/Javascript/React developer/Engineer role. I bring Front-End developer skills and a focus on delivering for customer experience and keen on learning from other experienced developers and team members.
 
 * 🌍  I'm based in London/Hertfordshire
 * 🖥️  See my portfolio at [My Porfolio website](http://louismulinge.com/)
